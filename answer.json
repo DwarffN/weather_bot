@@ -1,0 +1,21 @@
+{
+  "update_id": 676518190,
+  "message": {
+    "message_id": 157,
+    "from": {
+      "id": 480628213,
+      "is_bot": false,
+      "first_name": "Вася",
+      "username": "aswazz",
+      "language_code": "uk"
+    },
+    "chat": {
+      "id": 480628213,
+      "first_name": "Вася",
+      "username": "aswazz",
+      "type": "private"
+    },
+    "date": 1546779770,
+    "text": "fff"
+  }
+}
