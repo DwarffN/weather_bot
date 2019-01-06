@@ -37,4 +37,5 @@ def index():
 
 
 if __name__ == '__main__':
+    print('Runed')
     app.run()
